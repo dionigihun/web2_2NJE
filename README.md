@@ -1,11 +1,11 @@
 Webfejlesztés II, 2. beadandó Neumann János Egyetem<br>
-Bejelentkezéshez használd a következőket:
+Bejelentkezéshez használd a következőket:<br>
 Rendszergazdaként:
     felhasználónév: administrator
     jelszó: $AdministratoR
-Menedzserként (főnök)
+Menedzserként (főnök)<br>
     felhasználónév: manager
     jelszó: $ManageR
-Felhasználóként
+Felhasználóként<br>
     felhasználónév: user
     jelszó: $UseR
